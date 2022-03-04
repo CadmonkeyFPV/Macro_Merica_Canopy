@@ -1,10 +1,10 @@
 # Canopy for the CMW Macro Merica and HDZero Freestlye VTX
 
-TPU 3D Printed Canopy for the CMW Macro Merica using the HDZero Freestyle VTX
+FDM Canopy for the CMW Macro Merica using the HDZero Freestyle VTX
 Designed around the Speedy Bee UFL mount RHCP Antenna
 Accomodates 19mm wide cameras (HDZero Micro v2 or Foxeer Digisight V3)
 
-STLs for slicer generated supports or for designed in supports (recommended)
+STLs for slicer generated supports (messy and wasteful) or for designed in supports (recommended)
 
 RunCam5 Mount Supports Camera Butter or TBS Jello Guard Slip In ND Filters
 
@@ -22,3 +22,13 @@ BOM for Action Camera Mount:
 
 ![Rendering](Macro_Merica_FreestyleVTX_Render1.jpg)
 ![Rendering](Macro_Merica_FreestyleVTX_Render2.jpg)
+
+Tips:
+I've printed this and the development versions in TPU with a 0.4mm nozzle and 0.2mm layer height. 
+I prefer Ninjatek Cheetah filament and a nice slow speed for best quality.
+Holes for the heat set inserts are tapered and take a good amount of pressure and heat to get them set.
+Other antennas can be used if desired. Either clip the model in your slicer to remove the triangular boss.
+Or just cut off the extra material. Step file is included if you wish to revise to your hardware choices.
+Slot provided in the antenna tube for extra means of securing the antenna - why chance it with this VTX right?
+Camera angle is fixed at 40° but the couplers can be revised for lower angles. 40° is pretty much the max before interference with the antenna tube.
+
