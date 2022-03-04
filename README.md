@@ -23,7 +23,8 @@ BOM for Action Camera Mount:
 ![Rendering](Macro_Merica_FreestyleVTX_Render1.jpg)
 ![Rendering](Macro_Merica_FreestyleVTX_Render2.jpg)
 
-Tips:
+# Tips:
+
 I've printed this and the development versions in TPU with a 0.4mm nozzle and 0.2mm layer height.
 
 I prefer Ninjatek Cheetah filament and a nice slow speed for best quality.
