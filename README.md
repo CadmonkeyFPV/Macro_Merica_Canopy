@@ -24,11 +24,17 @@ BOM for Action Camera Mount:
 ![Rendering](Macro_Merica_FreestyleVTX_Render2.jpg)
 
 Tips:
-I've printed this and the development versions in TPU with a 0.4mm nozzle and 0.2mm layer height. 
+I've printed this and the development versions in TPU with a 0.4mm nozzle and 0.2mm layer height.
+
 I prefer Ninjatek Cheetah filament and a nice slow speed for best quality.
+
 Holes for the heat set inserts are tapered and take a good amount of pressure and heat to get them set.
-Other antennas can be used if desired. Either clip the model in your slicer to remove the triangular boss.
-Or just cut off the extra material. Step file is included if you wish to revise to your hardware choices.
-Slot provided in the antenna tube for extra means of securing the antenna - why chance it with this VTX right?
+
+Other antennas can be used if desired. Either clip the model in your slicer to remove the triangular boss, or just cut off the extra material.
+
+Step file is included if you wish to revise to your hardware choices.
+
+Slot provided in the antenna tube for extra means of securing the antenna with a cable tie - why chance it with this VTX right?
+
 Camera angle is fixed at 40° but the couplers can be revised for lower angles. 40° is pretty much the max before interference with the antenna tube.
 
